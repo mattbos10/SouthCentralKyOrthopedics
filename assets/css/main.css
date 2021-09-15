@@ -3917,3 +3917,15 @@ input, select, textarea {
 		#portalbutton {
 			font-size: 1vw;
 		}
+
+		#pdf {
+			width: 33%;
+		}
+
+		#pdfreddy {
+			width: 33%;
+		}
+
+		#pdfross {
+			width: 33%;
+		}
