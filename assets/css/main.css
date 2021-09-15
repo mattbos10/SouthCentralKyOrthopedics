@@ -3016,7 +3016,7 @@ input, select, textarea {
 				border-radius: 0;
 				display: block;
 				width: 25em;
-				height: fit-content;
+				height: 100%;
 			}
 
 			.spotlights > section > .image:before {
