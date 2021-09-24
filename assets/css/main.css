@@ -2670,6 +2670,7 @@ input, select, textarea {
 	border: 2px solid white;
 	text-align: center;
 	padding: 5px;
+	cursor: default;
 }
 
 
