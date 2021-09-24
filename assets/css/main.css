@@ -2667,6 +2667,9 @@ input, select, textarea {
 /* Actions */
 #paymentlink {
 	list-style-type: none;
+	border: 2px solid white;
+	text-align: center;
+	padding: 5px;
 }
 
 
